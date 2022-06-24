@@ -1,0 +1,9 @@
+.new-expense {
+  background-color: #945991;
+  border: 1px solid transparent;
+  border-radius: 16px;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
