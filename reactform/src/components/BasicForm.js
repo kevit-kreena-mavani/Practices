@@ -96,7 +96,7 @@ const BasicForm = (props) => {
           value={emailValue}
         />
         {emailInputHasError && (
-          <p className="error-text">E-mail must not be empty.</p>
+          <p className="error-text">E-mail must be valid.</p>
         )}
       </div>
 
